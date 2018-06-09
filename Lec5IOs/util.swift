@@ -8,8 +8,8 @@
 
 import Foundation
 
-
-func createARandom(upperLimit: Int)->(Int) {
+/*
+//func createARandom(upperLimit: Int)->(Int) {
     // there's a global function to preduce random numbers
     // UInt32 is a positive integer 32 bit - Unsigned
     
@@ -22,3 +22,4 @@ func createARandom(upperLimit: Int)->(Int) {
     // return
     return r
 }
+*/
